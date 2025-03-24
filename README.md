@@ -9,6 +9,11 @@ Effortlessly boost download speeds by leveraging Collab's high-speed servers. Sa
 - Store files securely on Google Drive for smooth hosting and faster access.
 - Simplifies downloading large files from slow servers.
 
+
+## Limitations:  (If you have Drive plans of Extended Storage there are no limitaions)
+- The download limit is 15GB for standard Google Drive users, as this is the maximum storage capacity for a normal Drive user.(If you have Drive plans of Extended Storage there are no limitaions)
+
+
 ## Instructions:
 
 1. **Open the Notebook**
