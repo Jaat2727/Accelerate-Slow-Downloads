@@ -13,8 +13,9 @@ Effortlessly boost download speeds by leveraging Collab's high-speed servers. Sa
 ## Limitations:  (If you have Drive plans of Extended Storage there are no limitaions)
 - The download limit is 15GB for standard Google Drive users, as this is the maximum storage capacity for a normal Drive user.(If you have Drive plans of Extended Storage there are no limitaions)
 
+## ⭐⭐ [Open the Colab Notebook Directly](https://colab.research.google.com/github/Jaat2727/Accelerate-Slow-Downloads/blob/main/Files_Downloader_.ipynb) ⭐⭐
 
-## Instructions:
+## Instructions: follow these steps or open with the above link
 
 1. **Open the Notebook**
    - Click the `Files_Downloader_.ipynb` file in this repository and open it in Google Colab.
