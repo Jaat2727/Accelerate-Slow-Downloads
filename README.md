@@ -1,6 +1,8 @@
-# Download Booster From Slow Servers
+# Download Booster From Slow Servers (Please ⭐)
 
 Effortlessly boost download speeds by leveraging Collab's high-speed servers. Save files directly to Google Drive, treating it as the host server, and retrieve them at 10x faster rates.
+
+## ⭐⭐ Want the same functionality for torrents? Check out: [Torrent Downloader on Colab to Google Drive](https://github.com/Jaat2727/Torrent-Downloader-on-Collab-To-Google-Drive) ⭐⭐
 
 ## Features:
 - Achieve download speeds of approximately 10x original spped of initial downloads .
